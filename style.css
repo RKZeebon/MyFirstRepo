@@ -1,0 +1,71 @@
+div{
+    background-color: rgb(194, 193, 193);
+    border-top: 10px solid blue;
+    border-right: 10px dotted aqua;
+    border-bottom: 10px solid blue;
+    border-left: 10px dotted aqua;
+    border-radius: 20px;
+    margin: 25px;
+    display: inline-block;
+    width: 25%;
+   /* margin-top: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;*/
+
+    padding: 25px;
+    /*padding-bottom: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-right: 25px;*/
+}
+
+.title{
+    color:green;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    text-align: center;
+
+}
+
+.body{
+    color: rgb(36, 62, 92);
+    font-size: 1.5em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    font-weight: 300;
+    text-align: justify;
+}
+
+h1{
+    text-align: center;
+    font-weight: 900;
+    font-size: 80px;
+    font-family: monospace;
+    color: lime;
+    background-color: gray;
+}
+.block{
+    display: inline;
+    font-size: 32px;
+
+}
+
+.choto{
+    font-size: 32px;
+    display: block;
+    font-style: italic;
+}
+
+.majhari{
+    color: red;
+    display: block;
+    font-size: 48px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#aa {
+    color: lightseagreen;
+}
+
+
